@@ -1,10 +1,12 @@
-# Vérif Scoot
+# État des lieux scooter : contrôle avant et après location
 
 ## Le projet en quelques mots
 
 Je développe un prototype d'application Android pour conserver une trace de l'état d'un scooter avant et après une location. L'utilisateur enregistre les quatre faces au départ, recommence au retour, puis compare les images et exporte un rapport.
 
 Le travail comprend la capture, le stockage sur le téléphone, la comparaison visuelle et le parcours de revue. Une personne reste responsable de regarder les images et de décider ce qu'elles montrent.
+
+Ce projet exploratoire m'a permis d'étudier un besoin concret dans la location de véhicules. Mon projet d'activité principal est désormais Ancrage, autour des sites et de la visibilité des entreprises locales. Le prototype Android conserve le nom historique Vérif Scoot dans ses écrans et son fichier d'installation.
 
 ## Comment le découvrir
 
@@ -144,6 +146,6 @@ Remplacer `SERIAL` par celui affiché par `adb devices`. Pour un bug, joindre mo
 
 ## Dépôt et téléchargement
 
-[Voir le dépôt](https://github.com/cpointis96-hue/verif-scoot) · [Télécharger les sources ZIP](https://github.com/cpointis96-hue/verif-scoot/archive/HEAD.zip). Le ZIP contient les sources ; il faut construire l’APK selon les instructions ci-dessus.
+[Voir le dépôt](https://github.com/cpointis96-hue/etat-des-lieux-scooter) · [Télécharger les sources ZIP](https://github.com/cpointis96-hue/etat-des-lieux-scooter/archive/HEAD.zip). Le ZIP contient les sources ; il faut construire l’APK selon les instructions ci-dessus.
 
 </details>
